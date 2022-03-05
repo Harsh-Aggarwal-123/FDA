@@ -5,10 +5,8 @@ dependencies:
   - python=3.7.9
   - mols2grid
   - rdkit
-  - node.js
-  - npm
   - pip
   - pip:
       - streamlit
-      - streamlit.components.v1
+      - streamlit.components.v1.html
       - pandas==1.1.3
