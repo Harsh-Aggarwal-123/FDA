@@ -7,6 +7,6 @@ dependencies:
   - rdkit
   - pip
   - pip:
-      - streamlit==0.82.0
+      - streamlit
       - streamlit.components.v1
       - pandas==1.1.3
