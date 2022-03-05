@@ -8,5 +8,5 @@ dependencies:
   - pip
   - pip:
       - streamlit==0.71.0
-      - streamlit.components.*
+      - streamlit.components.v1.*
       - pandas==1.1.3
