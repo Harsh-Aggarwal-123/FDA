@@ -17,16 +17,16 @@ st.markdown("""
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link disabled" href="">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link disabled" href="https://punitjain-jp.github.io/Dashboard/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="" target="_blank">Solubility Application</a>
+        <a class="nav-link" href="https://share.streamlit.io/punitjain-jp/project/main/solubility-app.py" target="_blank">Solubility Application</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="" target="_blank">DNA Application</a>
+        <a class="nav-link" href="https://share.streamlit.io/punitjain-jp/dna/main/dna-app.py" target="_blank">DNA Application</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="" target="_blank">Bioactivity Application</a>
+        <a class="nav-link" href="https://share.streamlit.io/rahul97532/bioactivity-prediction/app.py" target="_blank">Bioactivity Application</a>
       </li>
     </ul>
   </div>
