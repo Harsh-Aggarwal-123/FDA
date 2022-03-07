@@ -121,7 +121,7 @@ st.write(df_result4)
 
 raw_html = mols2grid.display(df_result4,
                             #subset=["Name", "img"],
-                            subset=["img", "Name", "MW", "LogP", "NumHDonors", "NumHAcceptors"],
+                            subset=["img", "Name", "MW", "LogP", "NumHDonors", "NumHAcceptors","cns_drug"],
                             mapping={"smiles": "SMILES", "generic_name": "Name"})._repr_html_()
 components.html(raw_html, width=900, height=1100, scrolling=False)
 
