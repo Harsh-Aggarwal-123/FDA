@@ -23,7 +23,7 @@ st.markdown("""
         <a class="nav-link" href="https://share.streamlit.io/punitjain-jp/project/main/solubility-app.py" target="_blank">Solubility Application</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://share.streamlit.io/punitjain-jp/dna/main/dna-app.py" target="_blank">DNA Application</a>
+        <a class="nav-link" href="https://share.streamlit.io/punitjain-jp/dna/main/dna-app.py" target="_blank">Nucleotide Composition</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://share.streamlit.io/punitjain-jp/moldesc/main/app.py" target="_blank">Molecular Descriptors</a>
