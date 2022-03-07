@@ -37,7 +37,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-st.title("Filter FDA Approved Drugs by Lipinski's Rule-of-Five")
+st.title("**Filter FDA Approved Drugs** by Lipinski's Rule-of-Five")
 
 @st.cache(allow_output_mutation=True)
 def download_dataset():
