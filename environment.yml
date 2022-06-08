@@ -1,4 +1,5 @@
 name: my_env
+export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=cpp
 channels:
   - conda-forge
 dependencies:
